@@ -1,5 +1,5 @@
 # Slot-Game-JavaScript
-# Slot-Game-JavaScript
+
 
 Slot Machine Game Documentation
 Table of Contents
